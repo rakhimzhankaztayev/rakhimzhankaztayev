@@ -5,7 +5,6 @@
 ### Aspiring Software Engineer | Student at FIZMAT
 *(National School of Physics & Math)*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rakhimzhankaztayev)](https://github.com/rakhimzhankaztayev)
 
 </div>
 
