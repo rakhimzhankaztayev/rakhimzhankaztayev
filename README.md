@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   
-  # Hi👋
+  # &nbsp;&nbsp;&nbsp;&nbsp;Hi👋
 
-### Aspiring Software Engineer | Student at FIZMAT
-*(National School of Physics & Math)*
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aspiring Software Engineer | Student at FIZMAT
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(National School of Physics & Math)*
 </div>
 
 ---
