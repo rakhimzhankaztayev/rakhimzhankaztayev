@@ -5,7 +5,7 @@
 ### Aspiring Software Engineer | Student at FIZMAT
 *(National School of Physics & Math)*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rakhimzhankaztayev&color=purple)](https://github.com/rakhimzhankaztayev)
+[![Profile Views](https://komarev.com/ghpvc/?username=rakhimzhankaztayev)](https://github.com/rakhimzhankaztayev)
 
 </div>
 
@@ -24,7 +24,7 @@ I am preparing for a major in **Software Engineering**. I love solving algorithm
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools 🛠️
 
 **Core Languages (Algorithmic & Backend):**
 <p>
@@ -43,7 +43,6 @@ I am preparing for a major in **Software Engineering**. I love solving algorithm
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
