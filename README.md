@@ -1,18 +1,15 @@
 <div align="center">
-
-# Hi there, I'm Rakhimzhan! 👋
+# Hi👋
 
 ### Aspiring Software Engineer | Student at FIZMAT
 *(National School of Physics & Math)*
-
-
 </div>
 
 ---
 
 ### About Me
 
-I am a 15-year-old student currently studying at the prestigious **National School of Physics & Math (FIZMAT)** in Kazakhstan. My academic focus is on deep mathematics and computer science, which provides a strong foundation for my passion: **Computer Science**.
+I am a 15-year-old student currently studying at the **National School of Physics & Math (FIZMAT)** in Kazakhstan. My academic focus is on deep mathematics and computer science, which provides a strong foundation for my passion: **Computer Science**.
 
 I am preparing for a major in **Software Engineering**. I love solving algorithmic problems and am currently expanding my skillset into Web Development and Object-Oriented Programming.
 
